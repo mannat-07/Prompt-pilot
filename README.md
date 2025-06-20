@@ -1,23 +1,23 @@
 # ⚡ Langflow CLI Runner
 
-> Your personal **Langflow launcher**, right from the terminal. Automate workflows, inject dynamic tweaks, upload files to flows, and talk to your Langflow apps like a boss. No UI required. Just code.
+> Your personal **Langflow launcher**, right from the terminal. Automate workflows, inject dynamic tweaks, upload files to flows, and talk to your Langflow apps like a boss. No UI required. Just code.  
 
 ---
 
 ## ✨ What is This?
 
-A powerful CLI tool that lets you **interact with your Langflow apps programmatically** using the Langflow API. Perfect for scripting, testing, automation, or integrating flows into larger systems.
+A powerful CLI tool that lets you **interact with your Langflow apps programmatically** using the Langflow API. Perfect for scripting, testing, automation, or integrating flows into larger systems.  
 
 ---
 
 ## 🔧 Features at a Glance
 
-✅ Run Langflow flows via command-line
-📦 Upload files to specific components in the flow
-🧠 Customize flow behavior with runtime tweaks
-📃 Save formatted or raw responses
-📢 Optional verbose mode for debugging
-🌍 Pulls secrets from `.env` or pass them live
+✅ Run Langflow flows via command-line  
+📦 Upload files to specific components in the flow  
+🧠 Customize flow behavior with runtime tweaks  
+📃 Save formatted or raw responses  
+📢 Optional verbose mode for debugging  
+🌍 Pulls secrets from `.env` or pass them live  
 
 ---
 
